@@ -1,2 +1,2 @@
-# Numpy-Python-library
-NumPy is a fundamental library for various fields, including data analysis, machine learning, scientific research, and more. Its efficient array operations and mathematical functions make it an indispensable tool for numerical computations in Python.
+Python:
+Python is a versatile and widely-used programming language that is known for its readability and ease of use. One of the reasons for Python's popularity is its extensive ecosystem of libraries and frameworks that cover a wide range of domains. These libraries make it easier for developers to perform various tasks without having to start from scratch. Here are some of the most prominent libraries and frameworks in the Python ecosystem.
